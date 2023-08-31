@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0vhZAgVdt/5nflmXyf8abXQpJhLIVR9K8860XpS8cu3vH+3UlqUuvfZ9uIxl+Y6Is9msdlwXBGcQIoWvp+MiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chad\\code\\imageResizer\\imageResizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chad\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\amazon.lambda.s3events\\3.0.0\\amazon.lambda.s3events.3.0.0.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\awssdk.core\\3.7.106.24\\awssdk.core.3.7.106.24.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\awssdk.s3\\3.7.104.2\\awssdk.s3.3.7.104.2.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\chad\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.21\\microsoft.netcore.app.crossgen2.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
